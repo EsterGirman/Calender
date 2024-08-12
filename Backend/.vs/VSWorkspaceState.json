@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Calendar.Api",
+    "\\Calendar.Api\\Calendar.Api",
+    "\\Calendar.Api\\Calendar.Api\\Controllers",
+    "\\Calendar.Api\\Calendar.Api\\Data",
+    "\\Calendar.Api\\Calendar.Api\\Models",
+    "\\Calendar.Api\\Calendar.Api\\obj",
+    "\\Calendar.Api\\Calendar.Api\\Properties"
+  ],
+  "SelectedNode": "\\Calendar.Api\\Calendar.Api\\Data\\users.json",
+  "PreviewInSolutionExplorer": false
+}
